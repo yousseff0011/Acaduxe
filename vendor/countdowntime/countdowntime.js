@@ -5,9 +5,9 @@
 
       countdown100: function(options) {
         var defaults = {
-          timeZone: "Africa/Casablanca",
+          timeZone: "",
           endtimeYear: 0,
-          endtimeMonth: 1,
+          endtimeMonth: 0,
           endtimeDate: 0,
           endtimeHours: 0,
           endtimeMinutes: 0,
